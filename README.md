@@ -1,6 +1,6 @@
 # Tela de Cadastro de Usuário
 
-Este projeto é uma aplicação de tela de cadastro de usuário desenvolvida com **React**, **TailwindCSS**, e **React Router DOM**, consumindo minha [Api_de cadastro de usuário](https://github.com/Arthur-Luiz19/Api_tarefas)..
+Este projeto é a parte de frontend de uma aplicação de tela de cadastro de usuário desenvolvida com **React**, **TailwindCSS**, e **React Router DOM**, consumindo minha [Api_de cadastro de usuário](https://github.com/Arthur-Luiz19/Api-registro-de-usuario-com-JWT).
 
 ## Funcionalidades
 
