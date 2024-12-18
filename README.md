@@ -44,7 +44,7 @@ Executa o linting no código-fonte usando o ESLint.
 Pré-visualiza a aplicação na versão de produção.
 
 ## Estrutura do Projeto
-
+```plaintext
 public/
 │   ├── vite.svg
 src/
@@ -69,7 +69,7 @@ src/
 ├── postcss.config.js
 ├── tailwind.config.js
 └── vite.config.js
-
+```
 
 ## Configuração do Ambiente
 
