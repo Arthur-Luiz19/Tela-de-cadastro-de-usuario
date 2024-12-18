@@ -109,5 +109,5 @@ Este projeto foi criado para desenvolver e consolidar habilidades no desenvolvim
 ---
 
 **Autor:** Arthur Luiz da Silva  
-**GitHub:** [ArthurLuiz](https://github.com/ArthurLuiz)
+**GitHub:** [ArthurLuiz](https://github.com/Arthur-Luiz19)
 
